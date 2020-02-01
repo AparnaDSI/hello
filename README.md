@@ -1,2 +1,2 @@
 # hello
-I like :pizza
+Starting to learn GitHub
